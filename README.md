@@ -14,6 +14,13 @@ This project analyzes construction-site video footage to detect personal protect
 - Processes video footage and generates annotated output
 - Uses a custom-trained YOLO11 model
 
+## Results
+
+### Detection Output 1
+![Detection Result 1](output_images/image1.png)
+
+
+
 ## Technologies
 
 - Python
